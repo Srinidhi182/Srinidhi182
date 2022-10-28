@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srinidhi182&label=Profile%20views&color=0e75b6&style=flat" alt="srinidhi182" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srinidhi182" alt="srinidhi182" /></a> </p>
+[![@srinidhi's Holopin board](https://holopin.me/srinidhi)](https://holopin.io/@srinidhi)
 
 - 👯 I’m looking to collaborate on **projects in the domain of web development, Java, UI/UX and Android dev.**
 
