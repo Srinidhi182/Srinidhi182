@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Srinidhi.R</h1>
 <h3 align="center">A passionate UI/UX designer and frontend developer.</h3>
 
-<p align="left"> <a href="https://holopin.io/@srinidhi182"><img src="https://holopin.io/api/user/board?user=srinidhi182" alt="srinidhi182" /></a> </p>
+<p align="left"> <a href="https://holopin.io/@srinidhi"><img src="https://holopin.io/api/user/board?user=srinidhi" alt="srinidhi182" /></a> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srinidhi182&label=Profile%20views&color=0e75b6&style=flat" alt="srinidhi182" /> </p>
 
