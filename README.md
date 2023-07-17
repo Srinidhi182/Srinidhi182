@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Srinidhi.R</h1>
-<h3 align="center">A passionate UI/UX designer and frontend developer.</h3>
+<h2 align="center">Hi 👋, I'm Srinidhi.R</h2>
+<h3 align="center">A passionate UI/UX designer |FullStack Developer |Blockchain Enthusiast.</h3>
 
 <p align="left"> <a href="https://holopin.io/@srinidhi"><img src="https://holopin.io/api/user/board?user=srinidhi" alt="srinidhi182" /></a> </p>
 
@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **projects in the domain of web development, Java, UI/UX and Android dev.**
 
-- 💬 Ask me about **UI/UX and web-dev**
+- 💬 Ask me about **UI/UX|web-dev**
 
 - 📫 How to reach me **srinidhiraghavan082@gmail.com**
 
